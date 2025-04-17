@@ -49,7 +49,7 @@ student-course-management/ │ ├── backend/ # Express server and API │ �
 
 ### 1. Clone the Repository
 
-git clone https://github.com/yourusername/student-course-management.git
+https://github.com/SCET-IT-TG/student_course_management.git
 cd student-course-management
 
 cd backend
